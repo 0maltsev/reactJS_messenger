@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# This application is based on chat library
+The main purpose of this app building was to get knowledge about connection of individual clients of app and a fair render for every user.
 
 ## Available Scripts
 
