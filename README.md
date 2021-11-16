@@ -1,5 +1,5 @@
 # This application is based on chat library
-The main purpose of this app building was to get knowledge about connection of individual clients of app and a fair render for every user.
+The main purpose of this app building was to get knowledge about connection of individual clients of the app and a fair render for every user.
 
 ## Available Scripts
 
